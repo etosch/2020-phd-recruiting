@@ -99,7 +99,7 @@ Through this event we will discuss PhD training as _work_: we will discuss pay, 
   </tr>
   <tr>
     <td></td><td>Three breakout rooms featuring: <ul><li><a href="#current-students">Current students</a> talk about about their experiences regarding graduate school.</li><li><a href="#graduated-cs-students">Graduated CS students</a> who perhaps did REUs or had some research experience and decided NOT to go to graduate school</li><li><a href="#graduated-phds">Graduated PhDs</a> who are not in academic positions, to talk about non-faculty paths that the PhD opens up</li></ul></td>
-  </tr
+  </tr>
   <tr>
     <td>16:30-16:40</td><td>Closing remarks</td>
   </tr>
@@ -127,9 +127,13 @@ Discord allows voice and video chatting, so why also use Zoom? We would like to 
 <table>
   <tr>
     <td style="width:128px"><img alt="Emma Tosch" src="http://blog.emmatosch.com/headshot.jpg" style="width:128px; height:128px"/> <a href="http://uvm.edu/~etosch">Emma Tosch</a> &middot; Programming Language Design (Domain Specific Languages), Causal Inference, Experimental Design, Computational Social Science Methodology, general intersection of PL/Systems and Data Science/Machine Learning</td>
-    <td style="width:128px"><img src="https://content.gmu.edu/sites/common/files/profile-headshot/Brittany-Johnson-headshot.jpg" alt="Brittany Johnson" style="width:128px"><a href="">Brittany I. Johnson &middot; Software Engineering; HCI; Machine Learning</td>
-    <td style="width:128px"><img src="https://people.cs.umass.edu/~strubell/img/race_brook.jpg" alt="Prof. Emma Strubell" style="width:128px"><a href="">Emma Strubell</a> &middot; NLP, machine learning, green AI</td>
+    <td style="width:128px"><img src="https://content.gmu.edu/sites/common/files/profile-headshot/Brittany-Johnson-headshot.jpg" alt="Brittany Johnson" style="width:128px; height:128px"><a href="">Brittany I. Johnson &middot; Software Engineering; HCI; Machine Learning</td>
+    <td style="width:128px"><img src="https://people.cs.umass.edu/~strubell/img/race_brook.jpg" alt="Prof. Emma Strubell" style="width:128px; height:128px"><a href="">Emma Strubell</a> &middot; NLP, machine learning, green AI</td>
   </tr>
+  <tr>
+    <td style="width:128px"><img alt="Joe Near" src="" style="width:128px; height:128px" /> <a href="http://www.uvm.edu/~jnear/">Joe Near</a> &middot; Privacy; security; programming languages </td>
+    <td style="width:128px"><img alt="Jeremiah Onaolapo" src="" style="width:128px; height:128px" /> <a href="https://www.uvm.edu/~jonaolap/">Jeremiah Onaolapo</a> &middot; Cybersecurity; social network security; understanding malicious activity in online accounts </td>
+  <tr>
 </table>
 
 [Top](#welcome-to-our-2020-PhD-Recruiting-Event-Webpage)
