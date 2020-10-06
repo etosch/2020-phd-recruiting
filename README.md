@@ -23,15 +23,16 @@ Through this event we will discuss PhD training as _work_: we will discuss pay, 
     <td>09:00-09:15</td><td>Welcome + Introduction to Tooling<td>
   </tr>
   <tr>
-  <td></td></td> _This will be a pre-recorded message explaining Zoom and Discord_ <ul><li>_Have everyone log into Discord_ </li><li>_Have everyone log into Zoom to say "hi"_</li><li>_Community troubleshooting_</li></ul> </td>
+    <td></td><td>This will be a pre-recorded message explaining Zoom and Discord <ul><li>Have everyone log into Discord </li><li>Have everyone log into Zoom to say "hi"</li><li>Community troubleshooting</li></ul></td>
   </tr>
   <tr>
-  <td>09:15-09:40</td><td>Why Graduate School, Why Now?</td>
-</tr>
-<tr>
-  <td></td><td>[Brittany Johnson](https://cs.gmu.edu/~johnsonb/) & [Emma Tosch](https://uvm.edu/~etosch) </td>
- </tr>
- <td></td><td>_This session will discuss why graduate school can be a good option_, particularly right now. _Some major points of discussion:_ <ul><li>_Graduate school can be a safety net during economic contraction_</li><li>_Address why stay in academia when there is important work in e.g. activism that students may be compelled to do right now_</li></ul></td>
+    <td>09:15-09:40</td><td>Why Graduate School, Why Now?</td>
+  </tr>
+  <tr>
+    <td></td><td><a href="https://cs.gmu.edu/~johnsonb/">Brittany Johnson</a> &amp; <a href="https://uvm.edu/~etosch">Emma Tosch</a></td>
+  </tr>
+  <tr>
+    <td></td><td>This session will discuss why graduate school can be a good option, particularly right now. Some major points of discussion: <ul><li>_Graduate school can be a safety net during economic contraction_</li><li>_Address why stay in academia when there is important work in e.g. activism that students may be compelled to do right now_</li></ul></td>
  </tr>
  </table>
  
