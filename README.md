@@ -98,13 +98,13 @@ Through this event we will discuss PhD training as _work_: we will discuss pay, 
     <td>15:05-16:25</td><td>Concurrent non-faculty breakout rooms</td>
   </tr>
   <tr>
-    <td></td><td>Three breakout rooms featuring: <ul><li><a href="#current-students">Current students</a>(preferably a college senior, a first-year graduate student, and a second-year graduate student) talk about about their experiences regarding graduate school.</li><li><a href="#graduated-cs-students">Graduated CS students</a> who perhaps did REUs or had some research experience and decided NOT to go to graduate school</li><li><a href="#graduated-phds">Graduated PhDs</a> who are not in academic positions, to talk about non-faculty paths that the PhD opens up</li></ul></td>
+    <td></td><td>Three breakout rooms featuring: <ul><li><a href="#current-students">Current students</a> talk about about their experiences regarding graduate school.</li><li><a href="#graduated-cs-students">Graduated CS students</a> who perhaps did REUs or had some research experience and decided NOT to go to graduate school</li><li><a href="#graduated-phds">Graduated PhDs</a> who are not in academic positions, to talk about non-faculty paths that the PhD opens up</li></ul></td>
   </tr
   <tr>
     <td>16:30-16:40</td><td>Closing remarks</td>
   </tr>
   <tr>
-    <td></td><td><ul><li>How to follow up</li><li>Keep in touch</li><li>We will send reminder emails that you can opt-out of</li></td>
+    <td></td><td><ul><li>How to follow up</li><li>Keep in touch</li><li>We will send reminder emails that you can opt-out of</li></ul></td>
   </tr>
 </table>
 
