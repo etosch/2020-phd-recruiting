@@ -8,7 +8,7 @@ This event will take place on *Friday, November 6*. We are currently looking for
 
 Please fill out [this form](https://forms.gle/txQ2dp1dgbhMaqJT7) to indicate your availability.
 
-[Schedule](#schedule) &middot; [Logistics](#logistics)  	&middot; [Recruiting Faculty](#recruiting-faculty) &middot [Other Panelists](#other-panelists)
+[Schedule](#schedule) &middot; [Logistics](#logistics)  	&middot; [Recruiting Faculty](#recruiting-faculty) &middot; [Other Panelists](#other-panelists)
 
 ### What makes this event different?
 
@@ -22,13 +22,19 @@ Through this event we will discuss PhD training as _work_: we will discuss pay, 
   <tr>
     <td>09:00-09:15</td><td>Welcome + Introduction to Tooling<td>
   </tr>
+  <tr>
   <td></td></td> _This will be a pre-recorded message explaining Zoom and Discord_ <ul><li>_Have everyone log into Discord_ </li><li>_Have everyone log into Zoom to say "hi"_</li><li>_Community troubleshooting_</li></ul> </td>
   </tr>
-</table>
-
-| 09:15-09:40 | Why Graduate School, Why Now? |
-|             | [Brittany Johnson](https://cs.gmu.edu/~johnsonb/) & [Emma Tosch](https://uvm.edu/~etosch) |
-|             | _This session will discuss why graduate school can be a good option_, particularly right now. _Some major points of discussion:_ <ul><li>_Graduate school can be a safety net during economic contraction_</li><li>_Address why stay in academia when there is important work in e.g. activism that students may be compelled to do right now_</li></ul> |
+  <tr>
+  <td>09:15-09:40</td><td>Why Graduate School, Why Now?</td>
+</tr>
+<tr>
+  <td></td><td>[Brittany Johnson](https://cs.gmu.edu/~johnsonb/) & [Emma Tosch](https://uvm.edu/~etosch) </td>
+ </tr>
+ <td></td><td>_This session will discuss why graduate school can be a good option_, particularly right now. _Some major points of discussion:_ <ul><li>_Graduate school can be a safety net during economic contraction_</li><li>_Address why stay in academia when there is important work in e.g. activism that students may be compelled to do right now_</li></ul></td>
+ </tr>
+ </table>
+ 
 | 09:40-10:00 | Break |
 |             | _Check into affinity group channels, meet some new folks!_ |
 | 10:00-10:25 | Graduate School is a Job | 
