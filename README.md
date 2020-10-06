@@ -126,9 +126,9 @@ Discord allows voice and video chatting, so why also use Zoom? We would like to 
 
 <table>
   <tr>
-    <td style="width:64px"><img alt="Emma Tosch" src="http://blog.emmatosch.com/headshot.jpg" style="width:64px; height:64px"/> <a href="http://uvm.edu/~etosch">Emma Tosch</a> &middot; Programming Language Design (Domain Specific Languages), Causal Inference, Experimental Design, Computational Social Science Methodology, general intersection of PL/Systems and Data Science/Machine Learning</td>
-    <td style="width:64px"><img src="https://content.gmu.edu/sites/common/files/profile-headshot/Brittany-Johnson-headshot.jpg" alt="Brittany Johnson" style="width:64px"></td>
-    <td style="width:64px"><img src="https://people.cs.umass.edu/~strubell/img/race_brook.jpg" alt="Prof. Emma Strubell" style="width:64px"></td>
+    <td style="width:128px"><img alt="Emma Tosch" src="http://blog.emmatosch.com/headshot.jpg" style="width:128px; height:128px"/> <a href="http://uvm.edu/~etosch">Emma Tosch</a> &middot; Programming Language Design (Domain Specific Languages), Causal Inference, Experimental Design, Computational Social Science Methodology, general intersection of PL/Systems and Data Science/Machine Learning</td>
+    <td style="width:128px"><img src="https://content.gmu.edu/sites/common/files/profile-headshot/Brittany-Johnson-headshot.jpg" alt="Brittany Johnson" style="width:128px"><a href="">Brittany I. Johnson &middot; Software Engineering; HCI; Machine Learning</td>
+    <td style="width:128px"><img src="https://people.cs.umass.edu/~strubell/img/race_brook.jpg" alt="Prof. Emma Strubell" style="width:128px"><a href="">Emma Strubell</a> &middot; NLP, machine learning, green AI</td>
   </tr>
 </table>
 
