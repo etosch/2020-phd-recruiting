@@ -1,35 +1,15 @@
 ## Welcome to our 2020 PhD Recruiting Event Webpage!
 
-This event will take place on *Friday, November 6*. 
+This event will take place on *Friday, November 6*. We are currently looking for faculty participants. If you are:
 
-### Markdown
+1. A US-based academic looking to hire PhD students during the 2021 calendar year, and 
+2. Interested in matching with students who might otherwise have chosen industry, and 
+3. Excited to participate in a recruiting event that broadens participation in academic computer science, then...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please fill out [this form](https://forms.gle/txQ2dp1dgbhMaqJT7) to indicate your availability.
 
-```markdown
-Syntax highlighted code block
+### What makes this event different?
 
-# Header 1
-## Header 2
-### Header 3
+This event was designed with the observation that _many students do not consider an advanced degree in computing because they believe academia is not for them_. This was an issue before the pandemic and will lead to a disasterous shortcoming of computing professionals in the United States, given volitility in US immigration policy. Our objective is to match junior (i.e., new) faculty members whose recruiting efforts have been hampered by the pandemic with students whose career prospects may have been hampered by the pandemic. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/etosch/phd-recruiting/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Through this event we will discuss PhD training as _work_: we will discuss pay, benefits, and norms. We advocate that students view the PhD as an apprenticeship and highlight the variety of career paths that the PhD opens up. We emphasize that the priority for students and faculty alike will be _finding a productive and healthy working relationship_ between the two parties. Finally, in recognition of the fact that the PhD application process can be daunting, especially when students face inordinate stress and uncertainty, we aim to _smooth the path_ for them.
