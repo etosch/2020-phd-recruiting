@@ -1,3 +1,4 @@
+<a name="top"></a>
 ## Welcome to our 2020 PhD Recruiting Event Webpage!
 
 This event will take place on *Friday, November 6*. We are currently looking for faculty participants. If you are:
@@ -109,7 +110,7 @@ Through this event we will discuss PhD training as _work_: we will discuss pay, 
 </table>
 
 
-[Top](#welcome-to-our-2020-PhD-Recruiting-Event-Webpage)
+[Top](#top)
 
 ## Logistics
 
@@ -119,7 +120,7 @@ The event will consist primarily of panels and a meet-and-greet with faculty. We
 
 Discord allows voice and video chatting, so why also use Zoom? We would like to have the option of recording panels (with participants' permission), and Zoom allows us to do this easily. We would also like to simulate the experience of being in different "spaces" when there are talks/panels/breakout rooms versus casual chat. This means that if you feel overwhelmed or are not interested in a current panel, you can meet other attendees in Discord and have either totally private chat, or in public channels.
 
-[Top](#welcome-to-our-2020-PhD-Recruiting-Event-Webpage)
+[Top](#top)
 
 
 ## Recruiting Faculty
@@ -137,21 +138,21 @@ Discord allows voice and video chatting, so why also use Zoom? We would like to 
   </tr>
 </table>
 
-[Top](#welcome-to-our-2020-PhD-Recruiting-Event-Webpage)
+[Top](#top)
 
 ## Other Panelists
 
 ### Current Students
 
-[Top](#welcome-to-our-2020-PhD-Recruiting-Event-Webpage)
+[Top](#top)
 
 ### Graduated CS Students
 
-[Top](#welcome-to-our-2020-PhD-Recruiting-Event-Webpage)
+[Top](#top)
 
 ### Graduated PhDs
 
-[Top](#welcome-to-our-2020-PhD-Recruiting-Event-Webpage)
+[Top](#top)
 
 ## Acknowledgements
 This event was primary organized by [Emma Tosch (University of Vermont)](https://uvm.edu/~etosch) and [Brittany Johnson (George Mason University)](https://cs.gmu.edu/~johnsonb/), with generous support from [CodePath](https://codepath.org/about). We also owe thanks to [Joe Near (University of Vermont)](https://uvm.edu/~jnear) and [Emma Strubell (Carnegie Mellon University -- Language Technologies Institution)]() for early feedback and helping to recruit other faculty. Thanks to [Sara Kingsley (Carnegie Mellon University -- Human-Computer Interaction Institute)]() for feedback on the [current CS PhD student salary survey](https://forms.gle/ve5dQKBGdgcoUqPo6).
