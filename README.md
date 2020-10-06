@@ -8,6 +8,8 @@ This event will take place on *Friday, November 6*. We are currently looking for
 
 Please fill out [this form](https://forms.gle/txQ2dp1dgbhMaqJT7) to indicate your availability.
 
+[Schedule](#schedule) &#127891; [Logistics](#logistics)  	&#127891;
+
 ### What makes this event different?
 
 This event was designed with the observation that _many students do not consider an advanced degree in computing because they believe academia is not for them_. This was an issue before the pandemic and will lead to a disasterous shortcoming of computing professionals in the United States, given volitility in US immigration policy. Our objective is to match junior (i.e., new) faculty members whose recruiting efforts have been hampered by the pandemic with students whose career prospects may have been hampered by the pandemic. 
@@ -19,10 +21,7 @@ Through this event we will discuss PhD training as _work_: we will discuss pay, 
 |             |    |
 |-------------|----|
 | 09:00-09:15 | Welcome + Introduction to Tooling |
-|             | _This will be a pre-recorded message explaining Zoom and Discord_ |
-|             | * _Have everyone log into Discord_  |
-|             | * _Have everyone log into Zoom to say "hi"_  |
-|             | * _Community troubleshooting_ |
+|             | _This will be a pre-recorded message explaining Zoom and Discord_ <ul><li>_Have everyone log into Discord_ </li><li>_Have everyone log into Zoom to say "hi"_</li><li>_Community troubleshooting_</li></ul> |
 | 09:15-09:40 | Why Graduate School, Why Now? |
 |             | [Brittany Johnson](https://cs.gmu.edu/~johnsonb/) & [Emma Tosch](https://uvm.edu/~etosch) |
 |             | _This session will discuss why graduate school can be a good option_, particularly right now. |
