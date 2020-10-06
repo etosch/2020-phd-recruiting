@@ -132,7 +132,7 @@ Discord allows voice and video chatting, so why also use Zoom? We would like to 
     <td style="width:128px"><img src="https://people.cs.umass.edu/~strubell/img/race_brook.jpg" alt="Prof. Emma Strubell" width="128px"><br/><a href="">Emma Strubell</a> &middot; Natural Language Processing (NLP), machine learning, green AI</td>
   </tr>
   <tr>
-    <td style="width:128px"><img alt="Joe Near" src="http://www.uvm.edu/~jnear/me.jpg" width="128px/> <br/> <a href="http://www.uvm.edu/~jnear/">Joe Near</a> &middot; Privacy, security, programming languages </td>
+    <td style="width:128px"><img alt="Joe Near" src="http://www.uvm.edu/~jnear/me.jpg" width="128px"/> <br/> <a href="http://www.uvm.edu/~jnear/">Joe Near</a> &middot; Privacy, security, programming languages </td>
     <td style="width:128px"><img alt="Jeremiah Onaolapo" src="http://www.uvm.edu/~jonaolap/img/jonaolapo.jpg" width="128px"/><br/> <a href="https://www.uvm.edu/~jonaolap/">Jeremiah Onaolapo</a> &middot; Cybersecurity, social network security, understanding malicious activity in online accounts </td>
     <td style="width:128px"></td>
   </tr>
