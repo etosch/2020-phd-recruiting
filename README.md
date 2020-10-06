@@ -8,7 +8,7 @@ This event will take place on *Friday, November 6*. We are currently looking for
 
 Please fill out [this form](https://forms.gle/txQ2dp1dgbhMaqJT7) to indicate your availability.
 
-[Schedule](#schedule) &#127891; [Logistics](#logistics)  	&#127891;
+[Schedule](#schedule) &middot; [Logistics](#logistics)  	&middot;
 
 ### What makes this event different?
 
