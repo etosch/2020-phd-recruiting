@@ -101,11 +101,15 @@ Through this event we will discuss PhD training as _work_: we will discuss pay, 
     <td></td><td>Three breakout rooms featuring: <ul><li>[Current students](#current-students) (preferably a college senior, a first-year graduate student, and a second-year graduate student) talk about about their experiences regarding graduate school.</li><li>[Graduated CS students](#graduated-cs-students) who perhaps did REUs or had some research experience and decided NOT to go to graduate school</li><li>[Graduated PhDs](#graduated-phds) who are not in academic positions, to talk about non-faculty paths that the PhD opens up_</li></ul></td>
   </tr>
   <tr>
-    <td>16:30-16:40</td><td>Closing remarks</td><ul><li>_How to follow up_</li><li>_Keep in touch_</li><li>_We will send reminder emails that you can opt-out of_</li></td>
+    <td>16:30-16:40</td><td>Closing remarks</td>
+  </tr>
+  <tr>
+    <td></td><td><ul><li>_How to follow up_</li><li>_Keep in touch_</li><li>_We will send reminder emails that you can opt-out of_</li></td>
   </tr>
 </table>
 
-[Top](#Welcome-to-our-2020 PhD-Recruiting-Event-Webpage)
+
+[Top](#welcome-to-our-2020-PhD-Recruiting-Event-Webpage)
 
 ## Logistics
 
