@@ -127,13 +127,13 @@ Discord allows voice and video chatting, so why also use Zoom? We would like to 
 
 <table>
   <tr>
-    <td style="width:128px"><img alt="Emma Tosch" src="http://blog.emmatosch.com/headshot.jpg" width="128px"/><br/> <a href="http://uvm.edu/~etosch">Emma Tosch</a> &middot; Programming Language Design (Domain Specific Languages), Causal Inference, Experimental Design, Computational Social Science Methodology, general intersection of PL/Systems and Data Science/Machine Learning</td>
-    <td style="width:128px"><img src="https://content.gmu.edu/sites/common/files/profile-headshot/Brittany-Johnson-headshot.jpg" alt="Brittany Johnson" width="128px"/><br/><a href="">Brittany I. Johnson</a> &middot; Software Engineering; HCI; Machine Learning</td>
-    <td style="width:128px"><img src="https://people.cs.umass.edu/~strubell/img/race_brook.jpg" alt="Prof. Emma Strubell" width="128px"><br/><a href="">Emma Strubell</a> &middot; NLP, machine learning, green AI</td>
+    <td style="width:128px"><img alt="Emma Tosch" src="http://blog.emmatosch.com/headshot.jpg" width="128px"/><br/> <a href="http://uvm.edu/~etosch">Emma Tosch</a> &middot; Programming Languages (PL), Experimental Design, general intersection of PL/Systems and Data Science/Machine Learning</td>
+    <td style="width:128px"><img src="https://content.gmu.edu/sites/common/files/profile-headshot/Brittany-Johnson-headshot.jpg" alt="Brittany Johnson" width="128px"/><br/><a href="">Brittany I. Johnson</a> &middot; Software Engineering, Human-Computer Interaction (HCI), Machine Learning</td>
+    <td style="width:128px"><img src="https://people.cs.umass.edu/~strubell/img/race_brook.jpg" alt="Prof. Emma Strubell" width="128px"><br/><a href="">Emma Strubell</a> &middot; Natural Language Processing (NLP), machine learning, green AI</td>
   </tr>
   <tr>
-    <td style="width:128px"><img alt="Joe Near" src="http://www.uvm.edu/~jnear/me.jpg" width="128px/> <br/> <a href="http://www.uvm.edu/~jnear/">Joe Near</a> &middot; Privacy; security; programming languages </td>
-    <td style="width:128px"><img alt="Jeremiah Onaolapo" src="http://www.uvm.edu/~jonaolap/img/jonaolapo.jpg" width="128px"/><br/> <a href="https://www.uvm.edu/~jonaolap/">Jeremiah Onaolapo</a> &middot; Cybersecurity; social network security; understanding malicious activity in online accounts </td>
+    <td style="width:128px"><img alt="Joe Near" src="http://www.uvm.edu/~jnear/me.jpg" width="128px/> <br/> <a href="http://www.uvm.edu/~jnear/">Joe Near</a> &middot; Privacy, security, programming languages </td>
+    <td style="width:128px"><img alt="Jeremiah Onaolapo" src="http://www.uvm.edu/~jonaolap/img/jonaolapo.jpg" width="128px"/><br/> <a href="https://www.uvm.edu/~jonaolap/">Jeremiah Onaolapo</a> &middot; Cybersecurity, social network security, understanding malicious activity in online accounts </td>
     <td style="width:128px"></td>
   </tr>
 </table>
