@@ -89,7 +89,7 @@ Through this event we will discuss PhD training as _work_: we will discuss pay, 
     <td>13:40-15:00</td><td>Faculty-student breakout rooms</td>
   </tr>
   <tr>
-    <td></td><td>[Recruiting Faculty](#recruiting-faculty)</td>
+    <td></td><td><a href="#recruiting-faculty">Recruiting Faculty</a></td>
   </tr>
   <tr>
     <td></td><td>Each faculty member who is recruiting students will host a breakout room. We encourage faculty to provide <2min video summaries of their research, to be advertised ahead of the event</td>
@@ -98,13 +98,13 @@ Through this event we will discuss PhD training as _work_: we will discuss pay, 
     <td>15:05-16:25</td><td>Concurrent non-faculty breakout rooms</td>
   </tr>
   <tr>
-    <td></td><td>Three breakout rooms featuring: <ul><li>[Current students](#current-students) (preferably a college senior, a first-year graduate student, and a second-year graduate student) talk about about their experiences regarding graduate school.</li><li>[Graduated CS students](#graduated-cs-students) who perhaps did REUs or had some research experience and decided NOT to go to graduate school</li><li>[Graduated PhDs](#graduated-phds) who are not in academic positions, to talk about non-faculty paths that the PhD opens up_</li></ul></td>
-  </tr>
+    <td></td><td>Three breakout rooms featuring: <ul><li><a href="#current-students">Current students</a>(preferably a college senior, a first-year graduate student, and a second-year graduate student) talk about about their experiences regarding graduate school.</li><li><a href="#graduated-cs-students">Graduated CS students</a> who perhaps did REUs or had some research experience and decided NOT to go to graduate school</li><li><a href="#graduated-phds">Graduated PhDs</a> who are not in academic positions, to talk about non-faculty paths that the PhD opens up</li></ul></td>
+  </tr
   <tr>
     <td>16:30-16:40</td><td>Closing remarks</td>
   </tr>
   <tr>
-    <td></td><td><ul><li>_How to follow up_</li><li>_Keep in touch_</li><li>_We will send reminder emails that you can opt-out of_</li></td>
+    <td></td><td><ul><li>How to follow up</li><li>Keep in touch</li><li>We will send reminder emails that you can opt-out of</li></td>
   </tr>
 </table>
 
@@ -117,7 +117,10 @@ The event will consist primarily of panels and a meet-and-greet with faculty. We
 
 ### Why Discord AND Zoom?
 
-Discord allows voice and video chatting, so why also use Zoom? We would like to have the option of recording panels (with participants' permission), and Zoom allows us to do this easily. We would also like to simulate the experience of being in different "spaces" when there are talks/panels/breakout rooms versus casual chat. This means that if you feel overwhelmed or are not interested in a current panel, you can meet other attendees in Discord and have either totally private, or 
+Discord allows voice and video chatting, so why also use Zoom? We would like to have the option of recording panels (with participants' permission), and Zoom allows us to do this easily. We would also like to simulate the experience of being in different "spaces" when there are talks/panels/breakout rooms versus casual chat. This means that if you feel overwhelmed or are not interested in a current panel, you can meet other attendees in Discord and have either totally private chat, or in public channels.
+
+[Top](#welcome-to-our-2020-PhD-Recruiting-Event-Webpage)
+
 
 ## Recruiting Faculty
 
@@ -129,7 +132,21 @@ Discord allows voice and video chatting, so why also use Zoom? We would like to 
   </tr>
 </table>
 
+[Top](#welcome-to-our-2020-PhD-Recruiting-Event-Webpage)
+
 ## Other Panelists
+
+### Current Students
+
+[Top](#welcome-to-our-2020-PhD-Recruiting-Event-Webpage)
+
+### Graduated CS Students
+
+[Top](#welcome-to-our-2020-PhD-Recruiting-Event-Webpage)
+
+### Graduated PhDs
+
+[Top](#welcome-to-our-2020-PhD-Recruiting-Event-Webpage)
 
 ## Acknowledgements
 This event was primary organized by [Emma Tosch (University of Vermont)](https://uvm.edu/~etosch) and [Brittany Johnson (George Mason University)](https://cs.gmu.edu/~johnsonb/), with generous support from [CodePath](https://codepath.org/about). We also owe thanks to [Joe Near (University of Vermont)](https://uvm.edu/~jnear) and [Emma Strubell (Carnegie Mellon University -- Language Technologies Institution)]() for early feedback and helping to recruit other faculty. Thanks to [Sara Kingsley (Carnegie Mellon University -- Human-Computer Interaction Institute)]() for feedback on the [current CS PhD student salary survey](https://forms.gle/ve5dQKBGdgcoUqPo6).
