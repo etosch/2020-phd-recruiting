@@ -16,7 +16,7 @@ Through this event we will discuss PhD training as _work_: we will discuss pay, 
 
 ## Schedule
 **Morning Session**
-| --- | --- |
+|-------------|----|
 | 09:00-09:15 | Welcome + Introduction to Tooling |
 |             | _This will be a pre-recorded message explaining Zoom and Discord_ |
 |             | * _Have everyone log into Discord_ * |
@@ -70,6 +70,7 @@ Through this event we will discuss PhD training as _work_: we will discuss pay, 
 |             | * _How to follow up_ | 
 |             | * _Keep in touch_ |
 |             | * _We will send reminder emails that you can opt-out of_ |
+|-------------|--|
 
 
 ## Logistics
