@@ -15,12 +15,13 @@ This event was designed with the observation that _many students do not consider
 Through this event we will discuss PhD training as _work_: we will discuss pay, benefits, and norms. We advocate that students view the PhD as an apprenticeship and highlight the variety of career paths that the PhD opens up. We emphasize that the priority for students and faculty alike will be _finding a productive and healthy working relationship_ between the two parties. Finally, in recognition of the fact that the PhD application process can be daunting, especially when students face inordinate stress and uncertainty, we aim to _smooth the path_ for them.
 
 ## Schedule
-**Morning Session**
+
+|             |    |
 |-------------|----|
 | 09:00-09:15 | Welcome + Introduction to Tooling |
 |             | _This will be a pre-recorded message explaining Zoom and Discord_ |
-|             | * _Have everyone log into Discord_ * |
-|             | * _Have everyone log into Zoom to say "hi"_ * |
+|             | * _Have everyone log into Discord_  |
+|             | * _Have everyone log into Zoom to say "hi"_  |
 |             | * _Community troubleshooting_ |
 | 09:15-09:40 | Why Graduate School, Why Now? |
 |             | [Brittany Johnson](https://cs.gmu.edu/~johnsonb/) & [Emma Tosch](https://uvm.edu/~etosch) |
@@ -30,7 +31,6 @@ Through this event we will discuss PhD training as _work_: we will discuss pay, 
 |             | * _Address why stay in academia when there is important work in e.g. activism that students may be compelled to do right now_ |
 | 09:40-10:00 | Break |
 |             | _Check into affinity group channels, meet some new folks!_ |
-| **2-part Panel Discussion** |
 | 10:00-10:25 | Graduate School is a Job | 
 |             | * _Discussion of Pay_ |
 |             | * _Discussion of TA vs RA vs fellowships_ |
@@ -42,7 +42,6 @@ Through this event we will discuss PhD training as _work_: we will discuss pay, 
 |             | * _Developing mastery of a topic, building skills along the way_ |
 | 11:00-11:20 | Break |
 |             | _Give students the chance to connect with faculty_ |
-| **2-part Panel Discussion** |
 | 11:20-11:45 | Working toward mastery: technical skills |
 |             | _Emphasis should be on the idea that these four are skills everyone must have in some capacity to make progress and get a PhD. The farther along you are when you start, the easier some things will be. No one will be excellent at all four, and everyone should work on these skills every day: |
 |             | * Programming/Coding |
@@ -70,7 +69,6 @@ Through this event we will discuss PhD training as _work_: we will discuss pay, 
 |             | * _How to follow up_ | 
 |             | * _Keep in touch_ |
 |             | * _We will send reminder emails that you can opt-out of_ |
-|-------------|--|
 
 
 ## Logistics
