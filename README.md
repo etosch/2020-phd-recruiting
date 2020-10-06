@@ -24,50 +24,30 @@ Through this event we will discuss PhD training as _work_: we will discuss pay, 
 |             | _This will be a pre-recorded message explaining Zoom and Discord_ <ul><li>_Have everyone log into Discord_ </li><li>_Have everyone log into Zoom to say "hi"_</li><li>_Community troubleshooting_</li></ul> |
 | 09:15-09:40 | Why Graduate School, Why Now? |
 |             | [Brittany Johnson](https://cs.gmu.edu/~johnsonb/) & [Emma Tosch](https://uvm.edu/~etosch) |
-|             | _This session will discuss why graduate school can be a good option_, particularly right now. |
-|             | _Some major points of discussion:_ |
-|             | * _Graduate school can be a safety net during economic contraction_ |
-|             | * _Address why stay in academia when there is important work in e.g. activism that students may be compelled to do right now_ |
+|             | _This session will discuss why graduate school can be a good option_, particularly right now. _Some major points of discussion:_ <ul><li>_Graduate school can be a safety net during economic contraction_</li><li>_Address why stay in academia when there is important work in e.g. activism that students may be compelled to do right now_</li></ul> |
 | 09:40-10:00 | Break |
 |             | _Check into affinity group channels, meet some new folks!_ |
 | 10:00-10:25 | Graduate School is a Job | 
-|             | * _Discussion of Pay_ |
-|             | * _Discussion of TA vs RA vs fellowships_ |
-|             | * _Explain the PI’s perspective and how understanding this is helpful_ |
+|             | TBD |
+|             | <ul><li>_Discussion of Pay_</li><li>_Discussion of TA vs RA vs fellowships_</li><li>_Explain the PI’s perspective and how understanding this is helpful_</li></ul>|
 | 10:30-10:55 | Graduate School is not a Job |
-|             | * _Discussion of what the PhD actually is_ |
-|             | * _Must work in an area where you can receive guidance/mentorship_ |
-|             | * _How it is more like an apprenticeship_ | 
-|             | * _Developing mastery of a topic, building skills along the way_ |
+|             | TBD |
+|             | <ul><li>_Discussion of what the PhD actually is_</li><li>_Must work in an area where you can receive guidance/mentorship_</li><li>_How it is more like an apprenticeship_</li><li>_Developing mastery of a topic, building skills along the way_</li></ul>|
 | 11:00-11:20 | Break |
 |             | _Give students the chance to connect with faculty_ |
 | 11:20-11:45 | Working toward mastery: technical skills |
-|             | _Emphasis should be on the idea that these four are skills everyone must have in some capacity to make progress and get a PhD. The farther along you are when you start, the easier some things will be. No one will be excellent at all four, and everyone should work on these skills every day: |
-|             | * Programming/Coding |
-|             | * Reading papers (and doing so quickly!) |
-|             | * Math/formalization |
-|             | * Writing|
-|             | * Experiment design + human subjects (pivot)_ |
+|             | TBD |
+|             | _Emphasis should be on the idea that these four are skills everyone must have in some capacity to make progress and get a PhD. The farther along you are when you start, the easier some things will be. No one will be excellent at all four, and everyone should work on these skills every day:<ul><li>Programming/Coding</li><li>Reading papers (and doing so quickly!)</li><li>Math/formalization</li><li>Writing</li><li>Experiment design + human subjects (pivot)_</li></ul>|
 | 11:50-12:15 | Working toward mastery: research skills |
-|             | _Emphasis should be on the idea that this is what your advisor is actually teaching you; if you learn basic technical skills from them, that’s a bonus, but their job is to actually teach you about the business of doing research and/or working in academia: |
-|             | * Identifying interesting research questions |
-|             | * Forming hypotheses |
-|             | * Designing formalisms and/or experiments to evaluate those questions |
-|             | * Evaluating your own work |
-|             | * Navigating related work |
-|             | * Critiquing others’ work_ |
+|             | TBD |
+|             | _Emphasis should be on the idea that this is what your advisor is actually teaching you; if you learn basic technical skills from them, that’s a bonus, but their job is to actually teach you about the business of doing research and/or working in academia: <ul><li>Identifying interesting research questions</li><li>Forming hypotheses</li><li>Designing formalisms and/or experiments to evaluate those questions</li><li>Evaluating your own work</li><li>Navigating related work</li><li>Critiquing others’ work_</li></ul>|
 | 12:20-13:40 | Lunch break/power naps |
 | 13:40-15:00 | Faculty-student breakout rooms |
+|             | [Recruiting Faculty](#recruiting-faculty) |
 |             | _Each faculty member who is recruiting students will host a breakout room. We encourage faculty to provide <2min video summaries of their research, to be advertised ahead of the event_ |
 | 15:05-16:25 | Concurrent non-faculty breakout rooms | 
-|             | _Three breakout rooms featuring: |
-|             | * Current students (preferably a college senior, a first-year graduate student, and a second-year graduate student) talk about about their experiences regarding graduate school.  |
-|             | * Graduated CS students who perhaps did REUs or had some research experience and decided NOT to go to graduate school 
-|             | * Graduated PhDs who are not in academic positions, to talk about non-faculty paths that the PhD opens up_
-| 16:30-16:40 | Closing remarks |
-|             | * _How to follow up_ | 
-|             | * _Keep in touch_ |
-|             | * _We will send reminder emails that you can opt-out of_ |
+|             | _Three breakout rooms featuring: <ul><li>[Current students](#current-students) (preferably a college senior, a first-year graduate student, and a second-year graduate student) talk about about their experiences regarding graduate school.</li><li>[Graduated CS students](#graduated-cs-students) who perhaps did REUs or had some research experience and decided NOT to go to graduate school</li><li>[Graduated PhDs](#graduated-phds) who are not in academic positions, to talk about non-faculty paths that the PhD opens up_</li></ul> |
+| 16:30-16:40 | Closing remarks <ul><li>_How to follow up_</li><li>_Keep in touch_</li><li>_We will send reminder emails that you can opt-out of_</li>|
 
 
 ## Logistics
