@@ -8,7 +8,7 @@ This event will take place on *Friday, November 6*. We are currently looking for
 
 Please fill out [this form](https://forms.gle/txQ2dp1dgbhMaqJT7) to indicate your availability.
 
-[Schedule](#schedule) &middot; [Logistics](#logistics) &middot; [Recruiting Faculty](#recruiting-faculty) &middot; [Other Panelists](#other-panelists)
+[Schedule](#schedule) &middot; [Logistics](#logistics) &middot; [Recruiting Faculty](#recruiting-faculty) &middot; [Other Panelists](#other-panelists) &middot; [Acknowledgements](#acknowledgements)
 
 ### What makes this event different?
 
@@ -20,7 +20,7 @@ Through this event we will discuss PhD training as _work_: we will discuss pay, 
 
 <table>
   <tr>
-    <td>09:00-09:15</td><td>Welcome + Introduction to Tooling<td>
+    <td>09:00-09:15</td><td>Welcome + Introduction to Tooling</td>
   </tr>
   <tr>
     <td></td><td>This will be a pre-recorded message explaining Zoom and Discord <ul><li>Have everyone log into Discord </li><li>Have everyone log into Zoom to say "hi"</li><li>Community troubleshooting</li></ul></td>
@@ -118,3 +118,18 @@ The event will consist primarily of panels and a meet-and-greet with faculty. We
 ### Why Discord AND Zoom?
 
 Discord allows voice and video chatting, so why also use Zoom? We would like to have the option of recording panels (with participants' permission), and Zoom allows us to do this easily. We would also like to simulate the experience of being in different "spaces" when there are talks/panels/breakout rooms versus casual chat. This means that if you feel overwhelmed or are not interested in a current panel, you can meet other attendees in Discord and have either totally private, or 
+
+## Recruiting Faculty
+
+<table>
+  <tr>
+    <td style="width:64px"><img alt="Emma Tosch" src="http://blog.emmatosch.com/headshot.jpg" style="width:64px; height:64px"/> <a href="http://uvm.edu/~etosch">Emma Tosch</a> &middot; Programming Language Design (Domain Specific Languages), Causal Inference, Experimental Design, Computational Social Science Methodology, general intersection of PL/Systems and Data Science/Machine Learning</td>
+    <td style="width:64px"><img src="https://content.gmu.edu/sites/common/files/profile-headshot/Brittany-Johnson-headshot.jpg" alt="Brittany Johnson" style="width:64px"></td>
+    <td style="width:64px"><img src="https://people.cs.umass.edu/~strubell/img/race_brook.jpg" alt="Prof. Emma Strubell" style="width:64px"></td>
+  </tr>
+</table>
+
+## Other Panelists
+
+## Acknowledgements
+This event was primary organized by [Emma Tosch (University of Vermont)](https://uvm.edu/~etosch) and [Brittany Johnson (George Mason University)](https://cs.gmu.edu/~johnsonb/), with generous support from [CodePath](https://codepath.org/about). We also owe thanks to [Joe Near (University of Vermont)](https://uvm.edu/~jnear) and [Emma Strubell (Carnegie Mellon University -- Language Technologies Institution)]() for early feedback and helping to recruit other faculty. Thanks to [Sara Kingsley (Carnegie Mellon University -- Human-Computer Interaction Institute)]() for feedback on the [current CS PhD student salary survey](https://forms.gle/ve5dQKBGdgcoUqPo6).
