@@ -11,7 +11,7 @@ Please fill out [this form](https://forms.gle/txQ2dp1dgbhMaqJT7) to indicate you
 
 **If you are a student interested in attending this event**, please fill out [this questionnaire](https://forms.gle/Ce4QtRPQjedtZDxk6).
 
-[Schedule](#schedule) &middot; [Logistics](#logistics) &middot; [Recruiting Faculty](#recruiting-faculty) &middot; [Other Panelists](#other-panelists) &middot; [Acknowledgements](#acknowledgements)
+[Schedule](#schedule) &middot; [Logistics](#logistics) &middot; [Recruiting Faculty](#recruiting-faculty) &middot; [Non-academic Panelists](#non-academic-panelists) &middot; [Acknowledgements](#acknowledgements)
 
 ### What makes this event different?
 
@@ -152,7 +152,7 @@ Discord allows voice and video chatting, so why also use Zoom? We would like to 
 
 [Top](#top)
 
-## Other Panelists
+## Non-Academic Panelists
 
 ### Current Students
 
