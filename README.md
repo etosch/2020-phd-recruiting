@@ -9,6 +9,8 @@ This event will take place on *Friday, November 6*. We are currently looking for
 
 Please fill out [this form](https://forms.gle/txQ2dp1dgbhMaqJT7) to indicate your availability.
 
+**If you are a student interested in attending this event**, please fill out [this questionnaire](https://forms.gle/Ce4QtRPQjedtZDxk6).
+
 [Schedule](#schedule) &middot; [Logistics](#logistics) &middot; [Recruiting Faculty](#recruiting-faculty) &middot; [Other Panelists](#other-panelists) &middot; [Acknowledgements](#acknowledgements)
 
 ### What makes this event different?
