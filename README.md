@@ -141,6 +141,11 @@ Discord allows voice and video chatting, so why also use Zoom? We would like to 
   <tr>
     <td style="width:128px"><img alt="Katharina Kann" src="https://kelina.github.io/img/profile.jpg" width="128px"><br/><a href="https://kelina.github.io/">Katharina Kann</a> &middot; Natural Language Processing, Machine Learning</td>
     <td style="width:128px"><img alt="Wesley Tansey" src="http://wesleytansey.com/wt.jpg" width="128px"><br/><a href="http://wesleytansey.com/">Wesley Tansey</a> &middot; Machine learning, Bayesian methods, computational biology, cancer genomics</td>
+    <td style="width:128px"><img alt="Frank Ferraro" src="https://www.csee.umbc.edu/~ferraro/imgs/portrait0.png" width="128px"/><br/><a href="https://www.csee.umbc.edu/~ferraro/">Frank Ferraro</a> &middot; Natural language processing, semantics, semi-supervised &amp; unsupervised machine learning (ML), grounded language (vision &amp; language)</td>
+  </tr>
+  <tr>
+    <td style="width:128px"><img alt="Xi He" src="https://cs.uwaterloo.ca/~xihe/xi.jpg" width="128px"><br/><a href="https://cs.uwaterloo.ca/~xihe/">Xi He</a> &middot; Privacy, databases</td>
+    <td style="width:128px"></td>
     <td style="width:128px"></td>
   </tr>
 </table>
