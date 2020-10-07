@@ -150,7 +150,7 @@ Discord allows voice and video chatting, so why also use Zoom? We would like to 
 
 <table>
   <tr>
-    <td style="width:128px"><img alt="Krystal Maughan" src="MIT.png" width="128px"/><br/>Krystal is a second year PhD student at the University of Vermont, where she is researching provable fairness, privacy and machine learning.</td>
+    <td style="width:128px"><img alt="Krystal Maughan" src="MIT.png" width="128px"/><br/>Krystal is a second year PhD student at the University of Vermont, where she is researching provable fairness, privacy and machine learning. She previously obtained an undergraduate degree in Film, Photography and Visual Arts, an a double minor in Theatre Arts and Art History. Before attending grad school, she worked in R&D for the film industry for several years and completed several software internships in the Bay area, as well a workshop at the Jet Propulsion Laboratory before starting graduate school at UVM.</td>
     <td style="width:128px"><img alt="Annabel Rothschild" src="Headshot.png" width="128px"/><br/>Annabel Rothschild is a first-year PhD student at Georgia Tech. After dabbling in many dark arts -- including programming language syntax design, user-focused security and privacy, and (dis/mis)information -- she settled happily into an interdisciplinary graduate program within a traditional CS department and a subsequent lifetime of trying to explain what exactly "Human-Centered Computing" means. Her current research adventures revolve around developing technical tools to assist in data literacy skill building.</td>
     <td style="width:128px"></td>
   </tr>
