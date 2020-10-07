@@ -136,7 +136,9 @@ Discord allows voice and video chatting, so why also use Zoom? We would like to 
   <tr>
     <td style="width:128px"><img alt="Joe Near" src="http://www.uvm.edu/~jnear/me.jpg" width="128px"/> <br/> <a href="http://www.uvm.edu/~jnear/">Joe Near</a> &middot; Privacy, security, programming languages </td>
     <td style="width:128px"><img alt="Jeremiah Onaolapo" src="http://www.uvm.edu/~jonaolap/img/jonaolapo.jpg" width="128px"/><br/> <a href="https://www.uvm.edu/~jonaolap/">Jeremiah Onaolapo</a> &middot; Cybersecurity, social network security, understanding malicious activity in online accounts </td>
-    <td style="width:128px"></td>
+    <td style="width:128px"><img alt="Jesse Thomason" src="https://jessethomason.com/thumbnails/face.jpg"><br/><a href="https://jessethomason.com/">Jesse Thomason</a> &middot; Natural Language Processing for Robotics (RoboNLP), Grounded Language Learning </td>
+  </tr>
+  <tr>
   </tr>
 </table>
 
@@ -145,6 +147,12 @@ Discord allows voice and video chatting, so why also use Zoom? We would like to 
 ## Other Panelists
 
 ### Current Students
+
+<table>
+  <tr>
+    <td style="width:128px"><img alt="Krystal Maughan" src="maughan.png" width="128px"/><br/>Krystal is a second year PhD student at the University of Vermont, where she is researching provable fairness, privacy and machine learning.</td>
+  </tr>
+</table>
 
 [Top](#top)
 
