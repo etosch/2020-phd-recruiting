@@ -140,6 +140,8 @@ Discord allows voice and video chatting, so why also use Zoom? We would like to 
   </tr>
   <tr>
     <td style="width:128px"><img alt="Katharina Kann" src="https://kelina.github.io/img/profile.jpg" width="128px"><br/><a href="https://kelina.github.io/">Katharina Kann</a> &middot; Natural Language Processing, Machine Learning</td>
+    <td style="width:128px"></td>
+    <td style="width:128px"></td>
   </tr>
 </table>
 
