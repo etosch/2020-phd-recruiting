@@ -5,6 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  
+    <script type="text/javascript">
+      if (window.location.hostname.includes('uvm')) {
+        if (Math.random() > 0.5) {
+          window.location.replace('https://cs.gmu.edu/~johnsonb/phd-recruiting.html')
+        }
+      }
+    </script>
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
     <!--[if lt IE 9]>
@@ -23,7 +31,7 @@
       <section>
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <!-- <p>{{ site.description | default: site.github.project_tagline }}</p> -->
           <hr>
         </div>
 
