@@ -17,11 +17,11 @@
       var hostname = window.location.hostname;
       if (hostname.includes('uvm')) {
         if (Math.random() < p) {
-          window.location.replace('https://cs.gmu.edu/~johnsonb/phd-recruiting.html?p=${p}');
+          window.location.replace(`https://cs.gmu.edu/~johnsonb/phd-recruiting.html?p=${p}`);
         }
       } else if (window.location.hostname.includes('gmu')) {
         if (Math.random() < p) {
-          window.location.replace('https://phd-recruiting.etosch.w3.uvm.edu?p={$p}');
+          window.location.replace(`https://phd-recruiting.etosch.w3.uvm.edu?p={$p}`);
         }
       }
     </script>
