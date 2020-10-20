@@ -23,6 +23,14 @@
         if (Math.random() < p) {
           window.location.replace(`https://phd-recruiting.etosch.w3.uvm.edu?p=${p*p}`);
         }
+      } else if (not (window.location.hostname.includes('localhost'))) {
+        if (Math.random() < p) {
+          if (Math.random() < 0.5) {
+            window.location.replace(`https://cs.gmu.edu/~johnsonb/phd-recruiting.html?p=${p*p}`);
+          } else {
+            window.location.replace(`https://phd-recruiting.etosch.w3.uvm.edu?p=${p*p}`)
+          }
+        }
       }
     </script>
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
