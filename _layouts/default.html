@@ -10,6 +10,9 @@
       var params = new URLSearchParams(window.location.search);
       if (params.has('p')) {
         p = parseFloat(params.get('p'))
+        if (p >= 1.0) {
+          p = 0.5;
+        }
       } else {
         p =  0.5;
       }
