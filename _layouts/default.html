@@ -7,12 +7,13 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   
     <script type="text/javascript">
-      if (URLSearchParams.has('p')) {
-        p = parseFloat(URLSearchParams.get('p'))
+      var params = new URLSearchParams(window.location.search);
+      if (params.has('p')) {
+        p = parseFloat(params.get('p'))
       } else {
         p =  0.5;
       }
-      console.log(p)
+      console.log('Probability of redirect', p)
       var hostname = window.location.hostname;
       if (hostname.includes('uvm')) {
         if (Math.random() < p) {
